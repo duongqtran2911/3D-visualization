@@ -1,0 +1,7 @@
+Progress report 1:
+I have tried implementing some different graphics library but results have been not very encouraging. 
+I will continue with the Scala Swing library and maybe also Java Swing library. 
+I am encountering mathematical problems when calculating the dimensions of the objects before putting it in the GUI,
+  which is quite the key point of the project.
+
+=> I am lagging behind my schedule presented, but I will try my best to accelerate and keep it up in time.

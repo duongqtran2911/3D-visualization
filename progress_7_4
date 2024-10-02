@@ -1,0 +1,11 @@
+Progress report 3: (7/4)
+
+I am trying to describe the 3D room in a file where the program can read from. In the file I describe the room by its main 
+attributes: vertex, and reactangular walls formed by those vertices. 
+
+I am also creating the first person view GUI based on the location of the user in the room. I think I may not use deploy the classes
+Grid and GridPos as stated in the plan.
+
+=> My project is making certain progress and I am trying my best to finish by the deadline
+
+*I wrote this report on 7/4 but I did not finish the commit & push action so it was not updated here.
